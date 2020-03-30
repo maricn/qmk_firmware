@@ -11,3 +11,5 @@
 // @NOTE: nikola - when using Tab or Space, 
 // they can get stuck in their mode
 #define PREVENT_STUCK_MODIFIERS
+
+// @TODO: nikola - define a bit longer time for space/tab
